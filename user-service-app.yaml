@@ -8,7 +8,7 @@ spec:
 
   # 소스: Git 저장소 정보
   source:
-    repoURL: https://https://github.com/whl5105/k8s-user-config.git
+    repoURL: https://github.com/whl5105/k8s-user-config.git
     targetRevision: HEAD
     path: user-service/prd
 
