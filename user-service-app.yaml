@@ -8,7 +8,7 @@ spec:
 
   # 소스: Git 저장소 정보
   source:
-    repoURL: https://github.com/PersonalizedNews-MSA/k8s-app-config.git
+    repoURL: https://https://github.com/whl5105/k8s-user-config.git
     targetRevision: HEAD
     path: user-service/prd
 
